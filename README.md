@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shamin Asfaq</h1>
-<h3 align="center">A passionate full-stack developer from Bangladesh</h3>
+<h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **University Management System of Southeast University, Dhaka**
+- 🔭 I’m currently working in **Herton Digital GmbH, Vienna, Austria**
 
 - 📫 How to reach me **shamin.asfaq@gmail.com**
 
